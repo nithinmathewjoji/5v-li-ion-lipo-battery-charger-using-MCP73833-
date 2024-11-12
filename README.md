@@ -6,8 +6,10 @@
 - [Features](#Features)
 - [Typical Application Circuit Diagram](#Typica-Application-circuit-diagram)
 - [Components and Connections](#Components-and-Connections)
-- [How to Build](#how-to-build)
+- [Component-List](#Component-List)
+- [Usage-Instructions](#Usage-Instructions)
 - [Applications](#applications)
+- [Safety Notes](Safety-Notes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -114,11 +116,10 @@ Standard Options
   - **I<sub>CHG</sub> = 1000 / R<sub>PROG</sub>**
   - With a 1kΩ resistor connected to **PROG**, the charging current will be approximately **1000 mA**.
 
-### Typical Application Circuit
 
-![Circuit Diagram](link_to_image)  <!-- Insert the circuit image link here -->
 
-### Component List
+### Component-List
+
 | Component          | Value   | Description                              |
 |--------------------|---------|------------------------------------------|
 | MCP73833           | -       | Battery Charger IC                       |
@@ -130,7 +131,7 @@ Standard Options
 | Thermistor (Optional) | 10kΩ | For thermal protection                    |
 | LED                | -       | For power and charge status indicators   |
 
-## Usage Instructions
+## Usage-Instructions
 
 1. **Powering the Charger**:
    - Connect a USB-C power source (5V) to the USB-C connector. The **PG LED** should light up to indicate that power is available.
@@ -150,13 +151,11 @@ Standard Options
 5. **Thermal Monitoring** (Optional):
    - If using a thermistor, connect it between **THERM** (Pin 8) and **GND**. This will adjust charging current based on battery temperature to prevent overheating.
 
-## Safety Notes
+## Safety-Notes
 - Use a high-quality Li-ion battery with built-in protection circuits.
 - Ensure proper heat dissipation as Li-ion charging can generate heat.
 - Always verify connections before powering the circuit to avoid short circuits or overcharging.
 
----
 
-This README provides a comprehensive overview of your USB Type-C Li-ion battery charger project. You can customize it further or add specific details based on your testing and usage. Let me know if you need additional sections!
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
