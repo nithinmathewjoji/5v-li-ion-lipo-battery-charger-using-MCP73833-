@@ -1,4 +1,5 @@
 # detailed circuit explanation for your **USB Type-C Li-ion Battery Charger** project using the **MCP73833** IC:
+![Schematic_mcp73833-li-ion-lipo-charger_2024-11-12](https://github.com/user-attachments/assets/dabc3e46-564d-4406-932f-9a3f3f574231)
 
 ## Table of Contents
 - [Circuit Explanation](#circuit-explanation)
