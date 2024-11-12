@@ -86,7 +86,7 @@ Standard Options
 - DFN-10 (3 mm x 3 mm)
 - MSOP-10
 
-# Typica-Application-circuit-diagram
+# Typical-Application-circuit-diagram
 ![Typica-Application-circuit-diagram](https://github.com/user-attachments/assets/9d7c4255-e3f1-42b1-ab00-7c44e064a513)
 
 ## Circuit Explanation
