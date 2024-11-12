@@ -1,6 +1,18 @@
 
 # 5v-li-ion-lipo-battery-charger-using-MCP73833
 
+## Table of Contents
+- [Description](#Description)
+- [Features](#Features)
+- [Circuit Diagram](#circuit-diagram)
+- [Components Required](#components-required)
+- [How to Build](#how-to-build)
+- [Applications](#applications)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+# Description
 The MCP73833/4 is a highly advanced linear charge
 management controller for use in space-limited, cost
 sensitive applications. The MCP73833/4 is available in
