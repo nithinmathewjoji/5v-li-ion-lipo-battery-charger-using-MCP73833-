@@ -10,7 +10,7 @@
 - [Usage-Instructions](#Usage-Instructions)
 - [Applications](#applications)
 - [Safety Notes](Safety-Notes)
-- [Contributing](#contributing)
+- [Contributing](CONTRIBUTING.md)
 - [License](LICENSE)
 
 
