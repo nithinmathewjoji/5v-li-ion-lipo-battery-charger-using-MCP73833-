@@ -11,7 +11,7 @@
 - [Applications](#applications)
 - [Safety Notes](Safety-Notes)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](LICENSE)
 
 
 # Description
